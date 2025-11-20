@@ -8,3 +8,4 @@ def tossing():
         print("P1! You serve! P2 You receive")
     else:
         print("It's Tail")
+        print("P2! You serve! P1 You receive")
